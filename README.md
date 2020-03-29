@@ -1,9 +1,9 @@
 # COVID-19
-Covid-19 — Navigating the Uncharted
+Covid-19 — Navigating the Uncharted. - Reproduced from https://www.nejm.org/doi/full/10.1056/NEJMe2002387
 (New Englang Journal of Medicine)
 
 List of authors.
-Anthony S. Fauci, M.D., H. Clifford Lane, M.D., and Robert R. Redfield, M.D.Ref: 
+Anthony S. Fauci, M.D., H. Clifford Lane, M.D., and Robert R. Redfield, M.D.
 
 The latest threat to global health is the ongoing outbreak of the respiratory disease that was recently given the name Coronavirus Disease 2019 (Covid-19). Covid-19 was recognized in December 2019.1 It was rapidly shown to be caused by a novel coronavirus that is structurally related to the virus that causes severe acute respiratory syndrome (SARS). As in two preceding instances of emergence of coronavirus disease in the past 18 years2 — SARS (2002 and 2003) and Middle East respiratory syndrome (MERS) (2012 to the present) — the Covid-19 outbreak has posed critical challenges for the public health, research, and medical communities.
 
